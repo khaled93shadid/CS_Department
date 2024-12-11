@@ -1,0 +1,4 @@
+.yulogo{width: 100px;height:100px;border-radius: 100px;}
+.navbarul>li {margin-left:250px; font-size:xx-large ; font-family: fantasy;font-style: oblique;transition: transform 0.2s; }
+.welcome{transition:transform 0.2s;}
+.welcome:hover{color: goldenrod;transform:scale(1.2);}
