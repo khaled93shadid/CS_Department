@@ -2,7 +2,7 @@
     border: 5px solid black; transition:box-shadow 0.2s,border 0.2s;}
 #containerdiv:hover{box-shadow: 15px 15px 15px;
 border: 6px solid black ;}    
-#body1{background-color:goldenrod;}
+#body1{background-color:black;}
 #imglogo{width: 100px ; height:100px ;border-radius: 30px;transition:transform 0.2s; }
 #imglogo:hover{transform:scale(1.1);}
 #listid{list-style: none;font-style: oblique;font-family: fantasy;margin-top: 20px;margin-left: 30px;}
